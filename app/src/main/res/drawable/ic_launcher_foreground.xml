@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Простая векторная иконка: кинокадр с «чёрными полосами» -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E8B84B"
+        android:pathData="M24,38h60v32H24z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,30h60v4H24z M24,74h60v4H24z" />
+</vector>
